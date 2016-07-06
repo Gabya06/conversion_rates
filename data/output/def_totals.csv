@@ -1,0 +1,30 @@
+yr_2,OldNewStage,count,sum
+2014,"(u'Buying Process id.', u'Closed Deferred')",12,1134
+2014,"(u'Buying Process id.', u'Closed Lost')",8,724
+2014,"(u'Prospect', u'Closed Deferred')",120,7966
+2014,"(u'Prospect', u'Closed Lost')",11,290
+2014,"(u'Qualified', u'Closed Deferred')",77,5620
+2014,"(u'Short List', u'Closed Deferred')",7,902
+2014,"(u'Short List', u'Closed Lost')",5,469
+2015,"(u'Buying Process id.', u'Closed Deferred')",57,10927
+2015,"(u'Buying Process id.', u'Closed Lost')",12,1152
+2015,"(u'Negotiation/Review', u'Closed Deferred')",4,640
+2015,"(u'Prospect', u'Closed Deferred')",118,16539
+2015,"(u'Prospect', u'Closed Lost')",8,365
+2015,"(u'Qualified', u'Closed Deferred')",144,27569
+2015,"('Qualified', u'Closed Lost')",8,941
+2015,"(u'Short List', u'Closed Deferred')",13,1021
+2015,"(u'Short List', u'Closed Lost')",10,1062
+2016,"(u'Buying Process id.', u'Closed Deferred')",44,9593
+2016,"(u'Buying Process id.', u'Closed Lost')",13,1755
+2016,"(u'Chosen Vendor', u'Closed Deferred')",2,35
+2016,"(u'Closed Won', u'Closed Deferred')",1,240
+2016,"(u'Closed Won', u'Closed Lost')",1,973
+2016,"(u'Negotiation/Review', u'Closed Deferred')",2,78
+2016,"(u'Negotiation/Review', u'Closed Lost')",1,100
+2016,"(u'Prospect', u'Closed Deferred')",169,29186
+2016,"(u'Prospect', u'Closed Lost')",6,108
+2016,"(u'Qualified', u'Closed Deferred')",214,31418
+2016,"('Qualified', u'Closed Lost')",17,1409
+2016,"(u'Short List', u'Closed Deferred')",9,2074
+2016,"(u'Short List', u'Closed Lost')",10,1354

@@ -1,0 +1,420 @@
+2011,1,Closed Deferred,1
+2011,1,Closed Lost,1
+2011,2,Qualification,9
+2011,2,Prospect,5
+2011,2,Buying Process id.,3
+2011,2,Short List,2
+2011,2,Needs Analysis,1
+2011,2,Prospecting,1
+2011,3,Buying Process id.,2
+2011,3,Negotiation/Review,2
+2011,3,Qualification,2
+2011,3,Short List,2
+2011,3,Closed Deferred,1
+2011,4,Closed Deferred,4
+2011,4,Negotiation/Review,2
+2011,4,Buying Process id.,1
+2011,4,Closed Won,1
+2011,4,Qualification,1
+2011,4,Short List,1
+2011,5,Qualification,2
+2011,5,Buying Process id.,1
+2011,5,Closed Won,1
+2011,6,Buying Process id.,3
+2011,6,Closed Lost,3
+2011,6,Closed Deferred,1
+2011,7,Qualification,3
+2011,7,Buying Process id.,2
+2011,7,Closed Lost,1
+2011,7,Closed Won,1
+2011,7,Prospect,1
+2011,8,Buying Process id.,3
+2011,8,Short List,3
+2011,8,Prospect,2
+2011,8,Qualification,2
+2011,8,Closed Lost,1
+2011,9,Buying Process id.,1
+2011,9,Negotiation/Review,1
+2011,9,Qualification,1
+2011,10,Buying Process id.,1
+2011,10,Closed Deferred,1
+2011,10,Closed Lost,1
+2011,10,Qualification,1
+2011,10,Short List,1
+2011,11,Buying Process id.,3
+2011,11,Qualification,2
+2011,11,Closed Lost,1
+2011,11,Negotiation/Review,1
+2011,11,Short List,1
+2011,12,Closed Deferred,4
+2011,12,Short List,3
+2011,12,Closed Won,1
+2012,1,Qualification,3
+2012,1,Closed Lost,1
+2012,2,Closed Deferred,4
+2012,2,Buying Process id.,1
+2012,2,Closed Won,1
+2012,2,Qualification,1
+2012,2,Short List,1
+2012,3,Closed Deferred,3
+2012,3,Negotiation/Review,3
+2012,3,Short List,3
+2012,3,Buying Process id.,1
+2012,3,Closed Won,1
+2012,3,Qualification,1
+2012,4,Closed Deferred,2
+2012,4,Closed Won,1
+2012,5,Qualification,2
+2012,5,Short List,2
+2012,5,Closed Lost,1
+2012,6,Buying Process id.,2
+2012,6,Closed Won,1
+2012,6,Negotiation/Review,1
+2012,6,Qualification,1
+2012,6,Short List,1
+2012,7,Buying Process id.,1
+2012,7,Closed Lost,1
+2012,7,Qualification,1
+2012,8,Buying Process id.,2
+2012,8,Qualification,2
+2012,8,Short List,2
+2012,9,Short List,4
+2012,9,Closed Lost,1
+2012,9,Closed Won,1
+2012,10,Buying Process id.,4
+2012,10,Short List,2
+2012,11,Short List,4
+2012,11,Buying Process id.,2
+2012,11,Closed Deferred,1
+2012,12,Closed Deferred,6
+2012,12,Negotiation/Review,4
+2012,12,Closed Won,2
+2012,12,Closed Lost,1
+2012,12,Qualification,1
+2012,12,Short List,1
+2013,1,Qualification,4
+2013,1,Buying Process id.,2
+2013,1,Closed Won,2
+2013,1,Short List,2
+2013,1,Closed Lost,1
+2013,2,Buying Process id.,2
+2013,2,Negotiation/Review,2
+2013,2,Short List,1
+2013,3,Closed Won,3
+2013,3,Closed Lost,2
+2013,3,Qualification,2
+2013,3,Short List,2
+2013,4,Buying Process id.,3
+2013,4,Closed Lost,1
+2013,5,Closed Deferred,3
+2013,5,Closed Lost,2
+2013,5,Negotiation/Review,2
+2013,5,Short List,2
+2013,5,Buying Process id.,1
+2013,5,Closed Won,1
+2013,5,Qualification,1
+2013,6,Short List,6
+2013,6,Closed Deferred,5
+2013,6,Buying Process id.,2
+2013,6,Negotiation/Review,2
+2013,7,Buying Process id.,1
+2013,7,Closed Lost,1
+2013,7,Closed Won,1
+2013,7,Short List,1
+2013,8,Buying Process id.,4
+2013,8,Closed Lost,2
+2013,8,Negotiation/Review,2
+2013,8,Qualification,2
+2013,8,Short List,2
+2013,8,Closed Won,1
+2013,9,Closed Won,4
+2013,9,Negotiation/Review,4
+2013,9,Buying Process id.,3
+2013,9,Closed Deferred,1
+2013,9,Closed Lost,1
+2013,9,Short List,1
+2013,10,Short List,4
+2013,10,Closed Deferred,2
+2013,10,Closed Lost,2
+2013,10,Closed Won,2
+2013,11,Buying Process id.,5
+2013,11,Short List,4
+2013,11,Closed Deferred,1
+2013,11,Closed Lost,1
+2013,11,Negotiation/Review,1
+2013,12,Short List,4
+2013,12,Closed Won,3
+2013,12,Closed Deferred,2
+2013,12,Negotiation/Review,2
+2014,1,Qualification,3
+2014,1,Short List,3
+2014,1,Closed Deferred,2
+2014,1,Buying Process id.,1
+2014,1,Closed Lost,1
+2014,1,Closed Won,1
+2014,1,Negotiation/Review,1
+2014,2,Buying Process id.,2
+2014,2,Closed Won,2
+2014,2,Closed Lost,1
+2014,2,Negotiation/Review,1
+2014,2,Short List,1
+2014,3,Qualification,128
+2014,3,Buying Process id.,45
+2014,3,Short List,23
+2014,3,Closed Deferred,6
+2014,3,Closed Lost,5
+2014,3,Negotiation/Review,4
+2014,3,Closed Won,1
+2014,3,Prospect,1
+2014,4,Qualification,45
+2014,4,Closed Deferred,33
+2014,4,Buying Process id.,31
+2014,4,Prospect,15
+2014,4,Short List,10
+2014,4,Negotiation/Review,4
+2014,4,Closed Won,3
+2014,5,Closed Deferred,55
+2014,5,Qualification,28
+2014,5,Buying Process id.,16
+2014,5,Short List,6
+2014,5,Prospect,5
+2014,5,Closed Lost,2
+2014,5,Negotiation/Review,2
+2014,6,Closed Deferred,44
+2014,6,Qualification,15
+2014,6,Buying Process id.,12
+2014,6,Negotiation/Review,5
+2014,6,Short List,3
+2014,6,Prospect,1
+2014,7,Qualification,34
+2014,7,Buying Process id.,19
+2014,7,Closed Deferred,10
+2014,7,Short List,7
+2014,7,Negotiation/Review,5
+2014,7,Closed Lost,3
+2014,7,Closed Won,1
+2014,7,Prospect,1
+2014,8,Closed Deferred,24
+2014,8,Qualification,23
+2014,8,Buying Process id.,12
+2014,8,Closed Won,5
+2014,8,Short List,5
+2014,8,Negotiation/Review,4
+2014,8,Closed Lost,1
+2014,8,Prospect,1
+2014,9,Closed Deferred,39
+2014,9,Qualification,17
+2014,9,Closed Lost,8
+2014,9,Closed Won,8
+2014,9,Short List,8
+2014,9,Buying Process id.,6
+2014,9,Negotiation/Review,3
+2014,10,Qualification,56
+2014,10,Closed Deferred,38
+2014,10,Buying Process id.,35
+2014,10,Short List,9
+2014,10,Negotiation/Review,7
+2014,10,Closed Won,4
+2014,10,Closed Lost,2
+2014,10,Prospect,1
+2014,11,Closed Deferred,49
+2014,11,Qualification,30
+2014,11,Buying Process id.,18
+2014,11,Short List,7
+2014,11,Negotiation/Review,6
+2014,11,Closed Won,3
+2014,11,Prospect,3
+2014,11,Closed Lost,1
+2014,12,Buying Process id.,15
+2014,12,Closed Deferred,11
+2014,12,Closed Won,10
+2014,12,Qualification,10
+2014,12,Short List,6
+2014,12,Negotiation/Review,4
+2014,12,Closed Lost,3
+2014,12,Prospect,1
+2015,1,Closed Deferred,61
+2015,1,Qualification,28
+2015,1,Buying Process id.,27
+2015,1,Short List,13
+2015,1,Closed Lost,7
+2015,1,Prospect,5
+2015,1,Negotiation/Review,2
+2015,2,Closed Deferred,17
+2015,2,Qualification,14
+2015,2,Buying Process id.,9
+2015,2,Short List,6
+2015,2,Negotiation/Review,3
+2015,2,Closed Lost,2
+2015,2,Prospect,1
+2015,3,Qualification,20
+2015,3,Closed Deferred,19
+2015,3,Buying Process id.,17
+2015,3,Short List,8
+2015,3,Prospect,7
+2015,3,Closed Won,5
+2015,3,Closed Lost,4
+2015,3,Negotiation/Review,3
+2015,4,Buying Process id.,20
+2015,4,Qualification,12
+2015,4,Closed Deferred,6
+2015,4,Closed Lost,3
+2015,4,Prospect,3
+2015,4,Short List,3
+2015,4,Negotiation/Review,1
+2015,5,Qualification,20
+2015,5,Closed Deferred,17
+2015,5,Buying Process id.,15
+2015,5,Prospect,10
+2015,5,Short List,10
+2015,5,Negotiation/Review,5
+2015,5,Closed Lost,4
+2015,6,Closed Deferred,35
+2015,6,Qualification,24
+2015,6,Buying Process id.,13
+2015,6,Closed Lost,10
+2015,6,Short List,7
+2015,6,Closed Won,5
+2015,6,Prospect,4
+2015,6,Negotiation/Review,2
+2015,7,Prospect,25
+2015,7,Qualification,17
+2015,7,Buying Process id.,13
+2015,7,Closed Deferred,13
+2015,7,Short List,6
+2015,7,Closed Won,3
+2015,7,Negotiation/Review,2
+2015,7,Closed Lost,1
+2015,8,Qualification,35
+2015,8,Buying Process id.,27
+2015,8,Closed Deferred,18
+2015,8,Prospect,12
+2015,8,Negotiation/Review,4
+2015,8,Short List,3
+2015,8,Closed Won,2
+2015,8,Closed Lost,1
+2015,9,Closed Deferred,56
+2015,9,Qualification,47
+2015,9,Buying Process id.,24
+2015,9,Negotiation/Review,7
+2015,9,Prospect,7
+2015,9,Short List,7
+2015,9,Closed Lost,4
+2015,9,Closed Won,4
+2015,10,Qualified,51
+2015,10,Closed Deferred,27
+2015,10,Buying Process id.,20
+2015,10,Re-Qualify,20
+2015,10,Short List,16
+2015,10,Prospect,14
+2015,10,Chosen Vendor,8
+2015,10,Closed Lost,8
+2015,10,Closed Won,3
+2015,10,Negotiation/Review,3
+2015,10,PO In Progress,1
+2015,11,Qualified,33
+2015,11,Closed Deferred,20
+2015,11,Re-Qualify,14
+2015,11,Chosen Vendor,8
+2015,11,Buying Process id.,6
+2015,11,Negotiation/Review,6
+2015,11,Closed Lost,5
+2015,11,Short List,4
+2015,11,Closed Won,1
+2015,12,Qualified,30
+2015,12,Closed Deferred,25
+2015,12,Closed Won,18
+2015,12,Short List,18
+2015,12,Chosen Vendor,16
+2015,12,Buying Process id.,12
+2015,12,Negotiation/Review,12
+2015,12,PO In Progress,10
+2015,12,Closed Lost,4
+2015,12,Re-Qualify,1
+2016,1,Qualified,50
+2016,1,Closed Deferred,25
+2016,1,Buying Process id.,21
+2016,1,Short List,20
+2016,1,Re-Qualify,15
+2016,1,Closed Lost,3
+2016,1,Closed Won,3
+2016,1,Prospect,3
+2016,1,David Iparraguirre,2
+2016,1,Chosen Vendor,1
+2016,1,David,1
+2016,1,PO In Progress,1
+2016,1,Phil,1
+2016,1,Phil Arbeiter,1
+2016,1,Sean Arnold,1
+2016,2,Qualified,116
+2016,2,Re-Qualify,106
+2016,2,Closed Deferred,41
+2016,2,Christina Garza,30
+2016,2,Short List,26
+2016,2,Buying Process id.,23
+2016,2,Doug Molumby,13
+2016,2,Chosen Vendor,11
+2016,2,Prospect,10
+2016,2,Tugce Akkalay,9
+2016,2,Phil Arbeiter,7
+2016,2,Negotiation/Review,6
+2016,2,Tony Fitzgerald,5
+2016,2,Closed Lost,4
+2016,2,Dan O'Brien,4
+2016,2,PO In Progress,3
+2016,2,Closed Won,2
+2016,2,David Iparraguire,1
+2016,2,David Iparraguirre,1
+2016,3,Qualified,69
+2016,3,Closed Deferred,44
+2016,3,Re-Qualify,44
+2016,3,Buying Process id.,26
+2016,3,Closed Won,12
+2016,3,Negotiation/Review,12
+2016,3,Short List,10
+2016,3,Chosen Vendor,7
+2016,3,Closed Lost,7
+2016,3,Phil Arbeiter,4
+2016,3,PO In Progress,3
+2016,3,Prospect,3
+2016,3,Christina Garza,1
+2016,3,Phil Arbetier,1
+2016,3,Tugce Akkalay,1
+2016,4,Closed Deferred,237
+2016,4,Qualified,50
+2016,4,Prospect,20
+2016,4,Re-Qualify,20
+2016,4,Buying Process id.,16
+2016,4,Short List,11
+2016,4,Chosen Vendor,8
+2016,4,Closed Lost,5
+2016,4,Closed Won,4
+2016,4,PO In Progress,3
+2016,4,Negotiation/Review,2
+2016,4,Daniel O'Brien,1
+2016,4,Doug Molumby,1
+2016,4,Phil Arbeiter,1
+2016,5,Closed Deferred,110
+2016,5,Qualified,44
+2016,5,Buying Process id.,31
+2016,5,Short List,16
+2016,5,Prospect,10
+2016,5,Chosen Vendor,6
+2016,5,Closed Lost,6
+2016,5,Dan O'Brien,4
+2016,5,Negotiation/Review,4
+2016,5,Closed Won,2
+2016,5,David Iparraguirre,1
+2016,5,Tony Fitzgerald,1
+2016,6,Prospect,41
+2016,6,Closed Deferred,26
+2016,6,Qualified,16
+2016,6,Negotiation/Review,7
+2016,6,Buying Process id.,6
+2016,6,Chosen Vendor,4
+2016,6,Closed Lost,3
+2016,6,PO In Progress,2
+2016,6,Short List,2
+2016,6,Closed Won,1
+2016,6,Dan O'Brien,1
+2016,6,Dan Obrien,1

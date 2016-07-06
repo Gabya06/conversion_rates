@@ -1,0 +1,105 @@
+yr_qt,OldValue,count,sum
+2014Q1,Buying Process id.,7,546
+2014Q1,Closed Lost,1,48
+2014Q1,Created,13,0
+2014Q1,Negotiation/Review,6,302
+2014Q1,Prospect,12,1
+2014Q1,Qualified,1,105
+2014Q1,Short List,6,448
+2014Q2,Buying Process id.,10,803
+2014Q2,Closed Deferred,1,0
+2014Q2,Created,352,0
+2014Q2,Negotiation/Review,2,68
+2014Q2,Prospect,197,50
+2014Q2,Qualified,8,29
+2014Q2,Short List,12,1153
+2014Q3,Buying Process id.,41,2345
+2014Q3,Closed Deferred,6,134
+2014Q3,Closed Lost,1,3
+2014Q3,Created,106,0
+2014Q3,Negotiation/Review,5,255
+2014Q3,Prospect,156,6719
+2014Q3,Qualified,96,4609
+2014Q3,Short List,26,3342
+2014Q4,Buying Process id.,37,2945
+2014Q4,Closed Deferred,8,441
+2014Q4,Created,133,0
+2014Q4,Negotiation/Review,15,976
+2014Q4,Prospect,111,5648
+2014Q4,Qualified,54,3481
+2014Q4,Short List,16,1638
+2015Q1,Buying Process id.,38,3914
+2015Q1,Closed Deferred,7,193
+2015Q1,Closed Lost,2,20
+2015Q1,Closed Won,2,1
+2015Q1,Created,111,0
+2015Q1,Negotiation/Review,23,1347
+2015Q1,Prospect,151,13295
+2015Q1,Qualified,83,7953
+2015Q1,Short List,19,1474
+2015Q2,Buying Process id.,62,7142
+2015Q2,Closed Deferred,8,690
+2015Q2,Closed Lost,1,19
+2015Q2,Created,105,0
+2015Q2,Negotiation/Review,6,452
+2015Q2,Prospect,77,4790
+2015Q2,Qualified,90,14157
+2015Q2,Short List,26,3346
+2015Q3,Buying Process id.,35,3486
+2015Q3,Closed Deferred,7,973
+2015Q3,Closed Lost,1,44
+2015Q3,Created,135,0
+2015Q3,Negotiation/Review,6,397
+2015Q3,Prospect,105,4791
+2015Q3,Qualified,53,8871
+2015Q3,Short List,20,2066
+2015Q4,Buying Process id.,60,12224
+2015Q4,Closed Deferred,10,568
+2015Q4,Closed Lost,1,125
+2015Q4,Created,125,0
+2015Q4,Negotiation/Review,14,1036
+2015Q4,Prospect,138,10195
+2015Q4,Qualified,89,16533
+2015Q4,Short List,20,2379
+2016Q1,Buying Process id.,66,10611
+2016Q1,Chosen Vendor,20,336
+2016Q1,Closed Deferred,6,587
+2016Q1,Closed Lost,1,2
+2016Q1,Closed Won,1,0
+2016Q1,Created,205,0
+2016Q1,Negotiation/Review,23,705
+2016Q1,PO In Progress,9,72
+2016Q1,Prospect,145,11494
+2016Q1,Qualified,90,13296
+2016Q1,Re-Qualify,4,7
+2016Q1,Short List,38,4339
+2016Q2,Buying Process id.,101,16858
+2016Q2,Chosen Vendor,23,975
+2016Q2,Closed Deferred,11,1374
+2016Q2,Created,259,0
+2016Q2,Negotiation/Review,16,896
+2016Q2,PO In Progress,7,144
+2016Q2,Prospect,320,34788
+2016Q2,Qualified,161,19484
+2016Q2,Re-Qualify,26,527
+2016Q2,Short List,43,3759
+2016Q3,Buying Process id.,72,10676
+2016Q3,Chosen Vendor,15,572
+2016Q3,Closed Deferred,83,2799
+2016Q3,Closed Lost,5,137
+2016Q3,Closed Won,5,1221
+2016Q3,Created,126,0
+2016Q3,Negotiation/Review,15,572
+2016Q3,PO In Progress,8,76
+2016Q3,Prospect,221,14591
+2016Q3,Qualified,227,28251
+2016Q3,Re-Qualify,190,13905
+2016Q3,Short List,39,4874
+2016Q4,Buying Process id.,4,249
+2016Q4,Chosen Vendor,1,33
+2016Q4,Closed Deferred,2,17
+2016Q4,Closed Lost,4,784
+2016Q4,PO In Progress,1,1
+2016Q4,Prospect,4,225
+2016Q4,Qualified,3,366
+2016Q4,Short List,2,167

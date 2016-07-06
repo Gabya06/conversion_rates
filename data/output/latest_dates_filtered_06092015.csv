@@ -1,0 +1,490 @@
+,Campaign_Name,Start_Date,End_Date,Lead_ID,First_Name,Last_Name,Lead:_Created_Date
+0,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000b2anK,Robert,Nisbett,2013-05-07
+1,UK-14-MDMDG Europe,2014-05-19,2014-05-21,00Q2000000b3eaw,Carme,Artigas,2011-03-07
+2,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000b3eaX,William,Cheong,2013-05-17
+3,UK-13-MDMDG Europe,2013-04-16,2013-04-17,00Q2000000b3eYf,Justin,York,2010-03-30
+4,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000b3eYx,Nic,Matthews,2013-05-17
+5,US-15-TDWI SanDiego,2015-09-21,,00Q2000000b3eZc,Jill,Wanless,2013-05-17
+6,UK-15-MDMDG Europe,2015-05-19,2015-05-20,00Q2000000b3eZK,James,Allen,2013-05-17
+7,US-14-EDW,2014-04-29,2014-04-30,00Q2000000b685c,Ed,Miranda,2013-06-10
+8,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000brgTj,Sunny,Johnson,2013-06-25
+12,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000brhm6,David,Eddy,2013-06-25
+13,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000cwhkD,Marin,Dimitrov,2013-10-18
+14,UK-14-MDMDG Europe,2014-05-19,2014-05-21,00Q2000000cwhlh,peter,simoens,2013-10-18
+15,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000cwhm7,Alar,Krist,2013-05-17
+16,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000cwhng,Joseph,Mathew,2013-06-25
+17,UK-14-A-Team DMS,2014-10-08,2014-10-08,00Q2000000cwhnP,Steven,Carter,2013-10-18
+20,US-15-FIMA,2015-03-30,2015-04-01,00Q2000000cxX1B,Jeff,Gentry,2013-05-07
+21,UK-14-MDMDG Europe,2014-05-19,2014-05-21,00Q2000000cy6HL,Dermot,Boyle,2013-05-17
+22,US-15-Strata + Hadoop New York,2015-09-29,2015-10-01,00Q2000000cyMT2,Jim,Campolong,2013-11-27
+23,US-13-DGWinter,2013-11-18,2013-11-20,00Q2000000cyMTw,Tina,McCoppin,2013-10-18
+24,US-13-IDQ,2013-11-04,2013-11-07,00Q2000000cyMTY,Professor Andy,Koronios,2013-01-29
+25,WEB-15-BNYMellon Webinar,2015-03-02,,00Q2000000cyMV1,Susan,Attwood,2013-10-18
+31,US-15-EDW,2015-04-02,,00Q2000000cyOy3,Geoffrey,H. Harkness,2013-11-28
+32,UK-13-FIMA,2013-11-05,2013-11-07,00Q2000000cyP9a,Julie,Crawford,2013-10-18
+33,UK-13-FIMA,2013-11-05,2013-11-07,00Q2000000cyPBp,Ashley,Payn,2012-10-10
+46,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000dvXV5,Costin,Marzea,2014-03-19
+51,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000dvXVj,Jim,Stockhaus,2014-03-19
+54,US-15-FIMA,2015-03-30,2015-04-01,00Q2000000dwA4a,Matt,McLaughlin,2014-04-06
+56,US-15-FIMA,2015-03-30,2015-04-01,00Q2000000dwA5b,Thomas,Crimmins,2014-04-06
+57,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000dwIbO,Laurence,Keyser,2014-04-09
+60,US-15-EDW,2015-04-02,,00Q2000000eqF77,Laura,Sebastian-Coleman,2014-05-08
+65,US-15-EDM Council Holiday Party,2015-12-03,2015-12-03,00Q2000000erBDX,Ron,Cruz,2014-05-20
+73,UK-14-MDMDG Europe,2014-05-19,2014-05-21,00Q2000000esPc8,Tony,Wallis,2013-05-17
+75,UK-15-Gartner MDMSummit,2015-06-02,,00Q2000000esPd8,Vanessa,Eriksson,2014-06-11
+77,UK-14-MDMDG Europe,2014-05-19,2014-05-21,00Q2000000esPeH,John,Radcliffe,2014-06-11
+79,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000g2dWT,Wayne,Harrison,2014-06-27
+82,US-15-FIMA,2015-03-30,2015-04-01,00Q2000000g2eMO,Marco,Sablone,2014-06-27
+85,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000g3LAa,venkata,valluri,2014-07-09
+88,US-14-MDM DG - TOR,2014-08-06,,00Q2000000g5mNL,Emily,Tregunno,2014-08-20
+90,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000g61KQ,Ishan,Dadhich,2014-08-21
+93,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000Gr6f1,Matt,Rigney,2010-04-30
+95,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000gwwwW,Amisha,Bhanage,2014-09-26
+97,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000gx13u,Gowri,Zoolagud,2014-09-28
+102,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000gy2Qv,Colin,Ware,2014-10-14
+109,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000gySQ6,Moin,Haque,2014-10-21
+112,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000gySQi,Scott,Cohanpour,2014-10-21
+133,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000ho05c,Howard,Evans,2014-11-11
+136,US-15-EDM Council Holiday Party,2015-12-03,2015-12-03,00Q2000000hoLsP,John,Senese,2014-11-18
+138,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000hoYSa,Shefali,Thadani,2014-11-21
+141,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000hoYU3,Jagadeshwar,Matcha,2014-11-21
+145,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000hoYU6,Esther,Wei,2014-11-21
+146,UK-14-FIMA,2014-11-12,2014-11-13,00Q2000000hp4ED,Kevin,Ayling,2012-11-30
+149,US-15-MITCDOIQ_Registration,2015-07-23,,00Q2000000hpdMw,Asim,Tewary,2014-12-10
+154,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000hpoZQ,Jieun,Chung,2014-12-15
+162,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000hqv4E,Mark,Ouska,2015-01-13
+192,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000ircAS,Michella,Welstead,2015-02-14
+193,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000isAuU,Steven,Green,2015-02-18
+195,NAM-16-Q1-EVT-Strata-Hadoop,2016-03-29,2016-03-31,00Q2000000isYZx,Coy,Gupta,2015-02-23
+198,WEB-15-A-team BCBS239 Mar2015,2015-03-25,,00Q2000000jQlc7,Jon,Levoir,2013-11-28
+200,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlc8,James,Murray,2015-03-02
+202,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlcB,Julian,Human,2015-03-02
+204,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlcJ,liane,ridge,2015-03-02
+206,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQlcM,Sandra,Frank,2015-03-02
+208,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlMs,Chris,Jones,2015-03-02
+210,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000jQlMZ,Grace,Yen,2015-03-02
+213,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlNg,Kamlesh,Prajapati,2015-03-02
+215,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlNH,Jhovanny,Posada,2015-03-02
+217,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlNP,Mike,Cheung,2015-03-02
+219,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000jQlO6,Aleksandra,W_jcik,2015-03-02
+222,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQlOb,Robyn,Lussier,2015-03-02
+225,WEB-15-BNYMellon Webinar,2015-03-02,,00Q2000000jQlOh,Martin,Hosseini,2014-11-21
+226,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlOl,Elaine,Suen,2015-02-23
+230,WEB-15-BNYMellon Webinar,2015-03-02,,00Q2000000jQlP4,Arun,Saksena,2015-02-23
+232,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQlPq,Steven,Lacoursiere,2015-03-02
+234,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000jQlPs,Erjan,Kurbanov,2015-03-02
+236,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlQb,Doug,Busta,2015-03-02
+238,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlQL,Sandeep Alexander,Goni,2015-03-02
+240,WEB-15-A-team BCBS239 Mar2015,2015-03-25,,00Q2000000jQlQU,Nitin,Kasturey,2015-03-02
+242,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000jQlS4,Pat,Klauer,2015-03-02
+245,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlS5,David,Juan,2015-03-02
+247,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQlSd,Madison,Sherrett,2015-03-02
+249,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlT1,ironside,ortega,2015-03-02
+251,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQlTg,Cheryl,Turner,2015-03-02
+255,WEB-15-BNYMellon Webinar,2015-03-02,,00Q2000000jQlUV,Floyd,DSouza,2013-10-18
+256,WEB-15-HDMWebinar,2015-07-09,2015-07-09,00Q2000000jQlV2,Barbara,Moatz,2015-03-02
+258,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQlW4,Drew,Goodchild,2015-03-02
+260,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000jQm6a,Maggie,Hubble,2015-03-02
+262,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jQm6h,Padma,Jakkaraju,2015-03-02
+264,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jQm6H,Jamie,Pinchen,2015-03-02
+266,WEB-15-A-team BCBS239 Mar2015,2015-03-25,,00Q2000000jSq2N,mark,hunter,2011-11-09
+269,WEB-15-A-team BCBS239 Mar2015,2015-03-25,,00Q2000000jSq2O,Jon,Evans,2014-06-11
+271,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jSq2r,sana,meerza,2015-03-25
+273,WEB-15-A-team SolvencyII,2015-09-10,2015-09-10,00Q2000000jSq35,Matthew,Leigh,2015-03-25
+277,WEB-15-A-team BCBS239 Dec,2015-12-01,2015-12-01,00Q2000000jSq3L,Stephan,Bellow,2015-03-25
+279,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jSq4p,Daniel,Skutelsky,2015-03-25
+281,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jSq52,Brian,Lott,2015-03-25
+283,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jSvK9,Joy,tizon,2015-03-26
+285,US-15-IDMA,2015-04-20,,00Q2000000jTbeM,George,Samuel,2015-04-03
+288,US-15-Gartner-EIMDM,2015-04-03,,00Q2000000jTbfE,Imad,Jawadi,2014-04-09
+289,US-15 Mark F. Campaign,2015-08-03,,00Q2000000jTbK7,Brian,Buzzelli,2015-04-03
+291,US-15-MITCDOIQ_Registration,2015-07-23,,00Q2000000jTbKz,Randy,Bean,2015-04-03
+294,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTbLO,Chan,Ouyang,2015-04-03
+299,US-15-IDMA,2015-04-20,,00Q2000000jTbM0,Richard,Pluschau,2012-10-29
+301,US-15-CDO Summit IBM,2015-03-30,,00Q2000000jTGtq,Mary,Cullinane,2015-03-30
+302,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvJp,Steven,Rogers,2015-03-25
+306,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvKB,Larry,McAferty,2014-03-19
+308,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvKD,Anne,Scotford,2014-11-21
+310,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvKU,Joy,Osaka-Lu,2015-04-09
+312,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000jTvLV,David,Svetcov,2015-04-09
+316,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvN9,Lee,Gullens,2015-04-09
+317,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvNf,Tony,Kriston,2015-03-02
+320,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvNI,Marcel,Gonzalez,2015-04-09
+321,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvNZ,Jeffrey,Knapp,2015-04-09
+323,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvO7,Ann,Lemon,2015-03-02
+325,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000jTvOe,Vishal,Bhalla,2015-03-25
+328,US-15-SanFranMDM_Registration,2015-07-22,,00Q2000000jTvOI,Chris,johnson,2015-04-09
+330,WEB-15-HDMWebinar,2015-07-09,2015-07-09,00Q2000000jTvOS,Christine,Zirngible,2015-04-09
+334,US-16-HIMSS16 - Setup Onsite Meetings,2016-02-28,2016-03-04,00Q2000000jTvOZ,Jeff,Cobb,2015-04-09
+335,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvP0,Ajay,Asthana,2015-03-10
+338,WEB-15-A-team SolvencyII,2015-09-10,2015-09-10,00Q2000000jTvPD,Ana,Dasilva,2015-04-09
+340,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvpz,Felice,Miles,2015-04-09
+341,WEB-15-HDMWebinar,2015-07-09,2015-07-09,00Q2000000jTvQ0,Tom,Huth,2015-04-09
+343,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvq0,Lisa,Raddatz,2015-03-10
+345,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvq2,Matthew,Schmidt,2015-03-02
+347,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvq3,Suzanne,Reid,2015-03-02
+350,WEB-15-Netapp Data Sharing Dec2015,2015-12-02,2015-12-02,00Q2000000jTvQh,Ray,Polakovic,2015-04-09
+351,WEB-15-HDMWebinar,2015-07-09,2015-07-09,00Q2000000jTvqH,Lorrene,Thiessen,2015-04-09
+353,WEB-15-HDMWebinar,2015-07-09,2015-07-09,00Q2000000jTvqn,Toni,Poikela,2015-04-09
+355,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000jTvqo,Xavier,Henderson,2015-04-09
+358,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvQX,A.J.,Malde,2015-04-09
+360,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvQY,Sean,Goodman,2015-04-09
+361,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvra,Ramdas,Panicher,2015-04-09
+364,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvrl,Elisabete,Miranda,2015-04-09
+365,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvRQ,nasresh,verma,2015-03-02
+368,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvRs,tianhong,zhang,2015-04-09
+370,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvRX,Joe,Chasse,2015-04-09
+374,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000jTvS5,Deb,Baker,2015-04-09
+375,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000jTvs8,ibrahim,zahrani,2015-03-02
+377,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000jTYF0,Jeffrey,Giles,2015-04-02
+379,DG Thought Leader2 - Ferguson,2011-07-19,,00Q2000000KhUYQ,Dawn,Zerbs,2010-10-08
+382,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kJ5Nk,Aviva,Phillips,2015-04-20
+384,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kJBtd,Giovanna,Volpe,2015-04-21
+386,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kJBu7,Frank,Preston,2015-04-21
+387,US-15-TDWI SanDiego,2015-09-21,,00Q2000000kJOdg,Pieter,Visser,2015-04-23
+390,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kKNyV,Benjamin,Moreland,2015-05-06
+392,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kKs7f,Nick,Weisfeld,2015-05-14
+394,UK-15-MDMDG Europe,2015-05-19,2015-05-20,00Q2000000kLXn1,Kersten,Wirth,2013-05-17
+396,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kLXn4,Reneta,Dimitrova,2015-05-21
+398,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kLXnh,Ben,Howat,2015-05-21
+400,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000kMjGR,Carla,Davis,2015-06-08
+401,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000kMjHc,Darius,Kemeklis,2015-06-08
+403,US-15-EDW,2015-04-02,,00Q2000000kMjHJ,Tom,Tierney,2015-06-08
+406,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000kMjIQ,Chris (William),Reaves,2015-06-08
+408,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kMO22,Heather,Huesser,2015-06-02
+411,US-15-DGIQ,2015-06-02,,00Q2000000kMO26,Saad,Yacu,2015-06-02
+414,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000kMO2z,Curt,McAdams,2015-06-02
+415,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kMO3d,Willie,Chandler,2015-06-02
+417,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kMO54,Anuradha,Tirupathi,2015-06-02
+419,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kMO55,Jonathan,Geiger,2015-06-02
+421,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kMO5D,Brett,Miller,2015-06-02
+424,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kMO7O,John,Szolusha,2015-06-02
+427,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000kMO8C,Wendy Bezotte,Bennett,2015-06-02
+429,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000kMOWX,Matthew,Tolhurst,2015-06-02
+431,US-15-PNEC_RegistrationList,2015-06-24,,00Q2000000kMxsm,JIN,KIM,2015-06-10
+433,US-15-PNEC_RegistrationList,2015-06-24,,00Q2000000kMxsp,KELLY,WEBER,2015-06-10
+435,US-15-PNEC_RegistrationList,2015-06-24,,00Q2000000kMxsv,RYAN,BALAZS,2015-06-10
+438,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000kyuuV,Tami,Flowers,2015-06-12
+441,US-15-DGIQ_Scans,2015-06-12,,00Q2000000kyuvR,Garen,Grigoryan,2014-08-22
+482,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000kzajS,Brett,Brunick,2015-06-22
+522,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kzff6,Scott,Laurel,2015-06-23
+523,US-15-HIMSS Big Data & Healthcare NY,2015-06-18,2015-06-19,00Q2000000kzffp,Ivan,Bendl,2015-06-23
+526,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000kziaq,Satyam,Priyadarshy,2015-06-24
+534,US-16-Enterprise Data Gov Online - EDGO,2016-01-27,2016-01-27,00Q2000000kziXZ,Zinaw,Tesemma,2015-06-24
+536,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kziZa,Erich,Braentner,2015-06-24
+538,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000kzRUJ,Marcus,Simpson,2015-06-19
+539,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27nl,Paul,Capicik,2015-06-30
+542,US-15-HealthCare Symposium Registrations,2015-07-13,,00Q2000000l27oM,Kevin,Hoey,2015-06-30
+544,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27oO,Mary,Moore,2015-06-30
+546,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27oT,Cynthia,Windsor,2015-06-30
+548,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27pv,Krista,Casey,2015-06-30
+550,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27qJ,Scott,Davidson,2015-06-30
+553,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000l27qQ,Taegan,Stine,2015-06-30
+554,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lSkoN,Anand,Pillai,2015-07-21
+556,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lSkon,Rick,Nagelmueller,2015-07-21
+558,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lSkpn,Roger,Huang,2015-07-21
+560,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lSkpN,Rachel,Bedor,2015-07-21
+564,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lSkqZ,Michael,McCullough,2015-07-21
+571,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lSpLR,Tim,Turner,2015-07-22
+574,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lSpMc,Stephen,Hess,2015-07-22
+576,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lSqIf,Dominique,Vandeuren,2015-07-22
+577,US-15-SanFranMDM_BoothScans,2015-07-22,,00Q2000000lTaD9,Pablo,Gallegos,2015-08-03
+580,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lTaF5,Mona,Dashputre,2015-08-03
+582,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8e,Glen,Kruger,2015-08-04
+584,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8F,Nick,Antao,2015-08-04
+586,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8i,Andrew,Ray,2015-08-04
+588,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8J,Megan,McDonald,2015-08-04
+590,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8k,Don,High,2015-08-04
+592,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8l,Hari,Namballa,2015-08-04
+594,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8m,Jonathan,Clark,2015-08-04
+596,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8M,Anton,Valkov,2015-08-04
+598,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8n,Ritesh,Arora,2015-08-04
+600,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8o,Vara,Kesavarapu,2015-08-04
+602,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8Q,Satish,Mohan,2015-08-04
+604,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8S,Roy,Bellman,2015-08-04
+606,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8T,Andrew,Hardin,2015-08-04
+608,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8U,Peter,Newcomb,2015-08-04
+610,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8u,Jennifer Exaltacion,Burmester,2015-08-04
+612,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf8W,Ina,Turner,2015-08-04
+614,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9d,John,Wheeler,2015-08-04
+616,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9i,Senthil,Kumar,2015-08-04
+618,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9j,Ric,Stamm,2015-08-04
+620,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9K,Jim,Holtman,2015-08-04
+622,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9M,Jerry,Sutton,2015-08-04
+624,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9O,Steven,Veid,2015-08-04
+626,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9P,George,O'Bryne,2015-08-04
+628,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9R,Tim,Steele,2015-08-04
+630,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9S,Mark,Quertinmont,2015-08-04
+632,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9U,Martin,Peters,2015-08-04
+634,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9W,Steve,Gerke,2015-08-04
+636,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9Y,Jennifer,Prichard,2015-08-04
+638,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTf9Z,Kristann,Jackson,2015-08-04
+640,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfB8,Goree,Oliver,2015-08-04
+642,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfB9,Kenny,Phillips,2015-08-04
+644,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBA,Hiren,Patel,2015-08-04
+646,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBD,Joe,Gaudreau,2015-08-04
+648,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBE,Carl,Hillermann,2015-08-04
+650,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBI,Anne,Dechant,2015-08-04
+652,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBJ,Sridhar,Vuppala,2015-08-04
+654,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBL,Mark,Boezi,2015-08-04
+656,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBO,David,Jester,2015-08-04
+658,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBP,Jeff,Driscoli,2015-08-04
+660,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBQ,Myrna,Vega,2015-08-04
+662,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfBR,David,Schackelford,2015-08-04
+664,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCH,Abey,Koshy,2015-08-04
+666,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCJ,Nancy,McGuire,2015-08-04
+668,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCK,Thomas,Campobasso,2015-08-04
+670,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCN,Thomas,Magnowski,2015-08-04
+672,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCO,Ashir,Hai,2015-08-04
+674,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCP,Abey,Mathew,2015-08-04
+676,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCQ,Jim,Pettigrew,2015-08-04
+678,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCR,Lizzie,Cole,2015-08-04
+680,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfCT,Patrick,Holland,2015-08-04
+682,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHA,Jim,Kozarek,2015-08-04
+684,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHB,Tyson,Chambers,2015-08-04
+686,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHC,Scotty,Hagen,2015-08-04
+688,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHD,Matthew,Detert,2015-08-04
+690,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHE,Steve,Loyd,2015-08-04
+692,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHF,Lynn,Hughes,2015-08-04
+694,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHG,Jennifer,Christy,2015-08-04
+696,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHH,Chris,Dufresne,2015-08-04
+698,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHI,Vicki,Kruth,2015-08-04
+700,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHK,Prosper,Yonghachea,2015-08-04
+702,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHM,Jim,Nelson,2015-08-04
+704,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfHN,Amanda,Snyder,2015-08-04
+706,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIc,Lorraine,Stevens,2015-08-04
+708,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfId,Deepak,Kuletha,2015-08-04
+710,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIg,Tony,Bingham,2015-08-04
+712,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIh,Sri,Sinha,2015-08-04
+714,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIj,Rajeshwari,Kavchale,2015-08-04
+716,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIk,Vijay,Sharma,2015-08-04
+718,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIm,Steve,Richard,2015-08-04
+720,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIn,Vikram,Bartakke,2015-08-04
+722,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIq,Anurag,Sureka,2015-08-04
+724,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIR,Alton,Thibodeaux,2015-08-04
+726,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIS,Shri,Sinha,2015-08-04
+728,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfIY,Price,Wilson,2015-08-04
+730,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJE,Jeffery,Smith,2015-08-04
+732,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJI,Julie,Davis,2015-08-04
+734,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJK,James,Scott,2015-08-04
+736,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJL,Cristian,Gabriel,2015-08-04
+738,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJM,Jennifer,Johnson,2015-08-04
+740,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJN,Don,Smyth,2015-08-04
+742,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJO,Frances,Wilcox,2015-08-04
+744,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfJQ,Cathy,Gibson,2015-08-04
+746,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfKB,Clark,Schnase,2015-08-04
+748,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfKD,Tony,Martinez,2015-08-04
+750,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfKE,Cole,Sodja,2015-08-04
+752,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL0,Michelle,Plummer,2015-08-04
+754,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL3,Petra,Calma,2015-08-04
+756,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL4,Mark,Heng,2015-08-04
+758,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL6,Kent,Lund,2015-08-04
+760,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL7,Jay,Bonds,2015-08-04
+762,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTfL8,Brandon,Patterson,2015-08-04
+801,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgKf,Annette,DeMarco,2015-08-04
+803,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgKK,Raji,Arasu,2015-08-04
+805,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgKX,Ji,Chen,2015-08-04
+807,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgLs,Kala,Ramaswamy,2015-08-04
+810,US-15Retail RainKing Big Data UseCases,2015-08-04,,00Q2000000lTgMg,Steven,Nicholas,2015-07-21
+811,US-15Retail RainKing Big Data UseCases,2015-08-04,,00Q2000000lTgMI,Marceline,Uttarkar,2015-08-04
+814,US-15Retail RainKing Big Data UseCases,2015-08-04,,00Q2000000lTgMx,Ken,Frush,2015-08-04
+815,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgNC,John,Reeves,2015-08-04
+817,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgNk,Derrick,Brown,2015-08-04
+819,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgNW,Daniel,Ascher,2015-08-04
+821,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgNx,Ginger,Colegrove,2015-08-04
+823,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgO7,Surya,Duggirala,2015-08-04
+825,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgOF,Keyur,Gabani,2015-08-04
+827,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgOG,Dirk,Garner,2015-08-04
+829,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgOI,Gordon,Gehman,2015-08-04
+831,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgPk,Daqing,Zhao,2015-08-04
+833,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgPo,Atif,Ahmad,2015-08-04
+835,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgPX,Michael,Tobin,2015-08-04
+837,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTgRN,Richard,Ribeiro,2015-08-04
+840,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTJwd,Jason,Kreuter,2015-07-29
+843,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000lTJwg,Krishna,Boppana,2015-07-29
+845,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTJwp,Brigitte,Collins,2015-07-29
+847,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTJwv,Karla,Salomon,2015-07-29
+850,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lTJx0,Michael,Servaes,2015-07-29
+852,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTJx7,Colleen,Newhart,2015-07-29
+854,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTlM1,David,Hay,2015-07-29
+855,US-15-MITCDOIQ_Registration,2015-07-23,,00Q2000000lTlMU,Jennifer,Lovelace,2015-08-05
+858,US-15-MITCDOIQ_BoothScans,2015-07-29,,00Q2000000lTlNA,Mark,Johnson,2015-07-29
+859,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTo6e,Jai,Shah,2015-08-06
+861,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTo6l,Sean,Waldridge,2015-08-06
+864,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTo79,Jennifer,Levens,2015-08-06
+866,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lTo7D,Divyesh,Pandya,2015-08-06
+868,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToDb,Chris,Lyman,2015-08-06
+870,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToDs,Sandeep,Lekhwani,2015-08-06
+872,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToE4,Debbie,Bruce,2015-08-06
+874,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToEB,Mahesh,Molakalapalli,2015-08-06
+876,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToEY,David,Chang,2015-08-06
+878,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToEy,Lowell,Boone,2015-08-06
+880,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToEz,Saravanan,Namasivayam,2015-08-06
+882,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToF5,Eric,Gottschalk,2015-08-06
+884,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToFb,Joseph,Deely,2015-08-06
+885,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToFd,Michael,Sorensen,2015-08-06
+887,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToFG,Lawrence,Yang,2015-08-06
+889,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToFg,Janet,Vratny,2015-08-06
+891,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lToFn,Samuel,Ward,2015-08-06
+894,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa25,karin,fourie,2014-11-21
+897,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa3n,Donna,Hoover,2015-08-19
+899,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa3t,Lance,Lewis,2013-11-05
+901,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa3u,Debbie,Chaplin,2015-08-19
+904,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa3X,Ben,Ettlinger,2015-07-29
+906,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa4d,Thomas,Shlala,2015-06-30
+909,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa4H,Michael,Orthmeyer,2015-04-09
+911,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa4S,Marina,Rangelova,2015-06-22
+914,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa4s,Lisa,Podvoiskis,2014-11-21
+916,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa4U,Patterson,Sanganza,2015-05-13
+919,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa4V,Wayne,Jaros,2015-06-19
+921,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa5X,Shari,Joyce,2015-06-24
+924,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa6m,Rodrigo,Figueroa,2013-11-27
+925,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa7b,Jason,Mertin,2015-03-02
+928,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUa7M,Austin,Whitehill,2015-08-19
+929,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUa7N,Christina,Kao,2015-04-09
+932,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000LUcRM,Balaji,Rengachari,2010-11-04
+936,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000LUcRN,Suzy,May,2010-11-04
+988,US-15-EDM Council Holiday Party,2015-12-03,2015-12-03,00Q2000000lUQz2,Jennifer,Curtiss,2015-08-17
+990,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000lUQzX,Riccardo,Baron,2015-08-17
+993,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUZv4,Denise,Cook,2015-08-19
+995,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUZwi,Derek,Pratt,2015-08-19
+996,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUZwv,Everlyn,Mande,2015-04-09
+998,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUZxm,Lukasz,Piotrowicz,2015-03-02
+1002,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUZxu,Taher,Borsadwala,2015-08-19
+1003,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUZxU,Dave,Getchell,2015-08-19
+1006,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUZy2,Kris,Dunnett,2015-06-08
+1008,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000lUZyK,Ranjini,Ramiah,2013-04-17
+1011,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lUZyy,Peter,Longo,2015-08-19
+1012,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEaa,Frank,Barren,2015-08-30
+1014,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEaL,Nidhi,Udawat,2015-08-30
+1016,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEaM,Lisa,Richardson,2015-08-30
+1018,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEaN,Elaine,Zuo,2015-08-30
+1020,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEPd,Tehmina,Basit,2015-08-30
+1022,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEPe,Ed,Gardner,2015-08-30
+1024,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEPf,Donna,Knapp,2015-08-30
+1026,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEPg,Damon,Muncy,2015-08-30
+1028,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEPh,Leanne,Greenwell,2015-08-30
+1030,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEQu,Jordan,Olp,2015-08-30
+1032,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEQv,Amanda,Schoenauer,2015-08-30
+1034,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEQy,Steven,Bell,2015-08-30
+1036,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVESl,Eric,Martinez,2015-08-30
+1038,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVESY,Robert,Barris,2015-08-30
+1040,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVETh,Kurt,Veitengruber,2015-08-30
+1042,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEU5,Frank,Marshall,2015-08-30
+1044,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEU9,Adele,Antonelli,2015-08-30
+1046,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVB,Deanna,Hardin,2015-08-30
+1048,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVD,Leann,Tyler,2015-08-30
+1050,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVp,Willie,Weathers,2015-08-30
+1052,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVs,David,Jungen,2015-08-30
+1054,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVv,Lauren,Lange,2015-08-30
+1056,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEVy,Shahe,Manoukian,2015-08-30
+1058,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWa,Arun,Veettil,2015-08-30
+1060,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWc,Krish,Kompella,2015-08-30
+1062,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWd,Elissa,Brown,2015-08-30
+1064,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWW,Tom,Haefliger,2015-08-30
+1066,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWX,Chris,Gradwohl,2015-08-30
+1068,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEWz,Chris,Christian,2015-08-30
+1070,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEX8,Krishna,Tiruppattur,2015-08-30
+1072,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEX9,Zena,Dadoukh,2015-08-30
+1074,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEXa,Jennifer,Guibert,2015-08-30
+1076,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEXN,Stuart,Downey,2015-08-30
+1078,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEXW,Daniel,Vincent,2015-08-30
+1080,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYE,Kevin,Hoolihan,2015-08-30
+1082,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYG,Ferdinand,Evangelista,2015-08-30
+1084,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYJ,Greg,Mills,2015-08-30
+1086,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYK,Odette,Fuller,2015-08-30
+1088,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYL,Steve,Veen,2015-08-30
+1090,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYM,Amy,Smith,2015-08-30
+1092,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYO,Greg,Haertling,2015-08-30
+1094,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYs,Ryan,Lopez,2015-08-30
+1096,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYt,Lisa,Lindsay,2015-08-30
+1098,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYu,Tony,Winkler,2015-08-30
+1100,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYv,Shawn,Doyle,2015-08-30
+1102,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYw,David,Tran,2015-08-30
+1104,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYx,David,Fry,2015-08-30
+1106,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYy,Peter,Italiano,2015-08-30
+1108,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYY,Joseph,Huck,2015-08-30
+1110,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEYz,Carrie,Jacobson,2015-08-30
+1112,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZ0,Akshay,Munshi,2015-08-30
+1114,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZ1,Jim,Wales,2015-08-30
+1116,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZ4,Karla,Olvera,2015-08-30
+1118,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZ6,Dennis,Merenguelli,2015-08-30
+1120,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZ7,Richard,Westhaver,2015-08-30
+1122,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZD,Tim,Carter,2015-08-30
+1124,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZE,Barb,Kopiasz,2015-08-30
+1126,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZF,Richard,Colbourne,2015-08-30
+1128,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZG,Tayler,Blake,2015-08-30
+1130,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZH,Poula,Hansen,2015-08-30
+1132,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZI,Kavita,Mehta,2015-08-30
+1134,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZJ,Wei,Du,2015-08-30
+1136,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZM,Lindsay,Curtis,2015-08-30
+1138,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZO,Ryan,Glasunow,2015-08-30
+1140,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZp,Upen,Patel,2015-08-30
+1142,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZq,Sharon,Arnett,2015-08-30
+1144,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZr,Carla,Huston,2015-08-30
+1146,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZs,Scott,Preble,2015-08-30
+1148,US-15-Global Retailer Saves Millions Promo,2015-11-10,2015-11-10,00Q2000000lVEZU,Joanne,Horn,2015-08-30
+1150,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000lVHlj,John,Curreri,2015-08-31
+1152,US-15-TDWI SanDiego,2015-09-21,,00Q2000000lVHoo,Shiv,Patil,2015-08-31
+1157,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lVHor,Nicola,Askham,2014-06-11
+1159,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lVHpJ,Steven,Poher,2015-08-31
+1161,WEB-15-CollibraUniversity,2015-08-31,,00Q2000000lVHpj,Adam,Sarti,2015-03-02
+1163,US-15-TDWI SanDiego,2015-09-21,,00Q2000000lVHqH,Charles,Davis,2015-08-31
+1173,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000MJiEH,Keletso,Mpisane,2011-01-10
+1174,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000MJiEj,Al,Grube,2011-01-10
+1176,US-15-DG Financial Services New Jersey,2015-09-29,2015-09-30,00Q2000000mKhOf,Mariam,Yosif,2015-09-14
+1178,WEB-15-A-team SolvencyII,2015-09-10,2015-09-10,00Q2000000mKhPC,Ian,Roben,2015-03-25
+1180,WEB-15-A-team SolvencyII,2015-09-10,2015-09-10,00Q2000000mKhPG,Haribrahadeesh,N D,2015-03-25
+1186,US-15-Strata + Hadoop New York,2015-09-29,2015-10-01,00Q2000000mLqBA,Eui-Hong (Sam),Han,2015-09-23
+1188,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000mLqGR,Omar,Orqueda,2015-08-31
+1191,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000mLqHR,Joseph,Zeinoun,2015-09-23
+1192,US-15-Big Data Innovation Summit,2015-09-07,2015-09-08,00Q2000000mLqHv,Kenneth,Waters,2015-09-23
+1195,US-15-CDO Summit NYC,2015-12-01,2015-12-02,00Q2000000mLqIT,Jeffrey,Bladt,2015-09-23
+1197,US-15-TDWI SanDiego,2015-09-21,,00Q2000000mLznU,Curtis,Colbert,2015-09-24
+1198,US-15-TDWI SanDiego,2015-09-21,,00Q2000000mLzSY,Joe,Horton,2015-09-24
+1201,US-15-TDWI SanDiego,2015-09-21,,00Q2000000mLzTq,Wes,Nam,2015-09-24
+1202,US-15-Strata + Hadoop New York,2015-09-29,2015-10-01,00Q2000000mMyeM,Andrew,Lynch,2015-10-05
+1204,US-15-Strata + Hadoop New York,2015-09-29,2015-10-01,00Q2000000mMyYU,Giridharan,Iyengar,2015-10-05
+1206,US-15-DG Financial Services New Jersey,2015-09-29,2015-09-30,00Q2000000mNItj,Alex,Gorelik,2015-02-23
+1209,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000mNIuR,Frank,Guastafeste,2015-10-07
+1212,US-15-MDM & Data Governance New York,2015-10-04,2015-10-06,00Q2000000mNtjj,Tanaya,Krauss,2015-10-13
+1216,WEB-15-A-team BCBS239 Mar2015,2015-03-25,,00Q2000000mrdpm,Robyn,Watt,2014-10-14
+1217,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000NIUiQ,John,Kollar,2011-02-09
+1219,WEB-12-DGTLS-Sunil,2013-01-22,2013-01-22,00Q2000000NKe3E,Trevor,Collins,2011-03-07
+1221,US-15-DGIQ_Scans,2015-06-12,,00Q2000000NLrqE,Shari,Lynn,2011-04-02
+1225,DG Thought Leader2 - Ferguson,2011-07-19,,00Q2000000NLrqj,Jun,Terado,2011-04-02
+1227,DG Thought Leader - Malcolmn,2011-03-31,2011-03-31,00Q2000000NLrqM,Todd,Thompson,2011-04-02
+1230,DG Thought Leader - Malcolmn,2011-03-31,2011-03-31,00Q2000000NLrr9,Lane,Strandberg,2010-11-19
+1232,DG Thought Leader - Malcolmn,2011-03-31,2011-03-31,00Q2000000NLrrN,Andy,Yan,2010-12-03
+1234,DG Thought Leader - Malcolmn,2011-03-31,2011-03-31,00Q2000000NLrsc,john,nixon,2011-04-02
+1238,BE-11-300release,2011-09-27,,00Q2000000NLrsk,Kathy,Erickson,2011-04-02
+1241,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000NLrsK,Pete,DuBois,2011-04-02
+1245,WEB-15-IM-BigDataGovernance,2015-04-09,,00Q2000000OOKn6,Michelle,Sorensen,2011-05-02
+1246,WEB-12-DGTLS-Sunil,2013-01-22,2013-01-22,00Q2000000OPw7m,Mona,Azab,2011-06-06
+1249,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000OPw7M,ken,li,2011-06-06
+1250,WEB-13-DGTLS-MalcolmChisholm,2013-10-15,2013-10-15,00Q2000000OPw7R,Shitanshu,Jha,2011-06-06
+1253,WEB-12-DGTLS-Sunil,2013-01-22,2013-01-22,00Q2000000ORG5t,Ruby,Scotland,2011-06-30
+1256,DG Thought Leader2 - Ferguson,2011-07-19,,00Q2000000PoWMk,Soumya,Srinivasan,2011-02-09
+1258,DG Thought Leader2 - Ferguson,2011-07-19,,00Q2000000PoWNG,LAURENCE,ORAZI,2011-04-02
+1261,WEB-12-DGTLS-Sunil,2013-01-22,2013-01-22,00Q2000000PpFvO,carolin,chai,2011-02-09
+1263,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000PpgAT,T,Mistry,2011-08-23
+1265,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000PpgAV,Sithembiso,Ngubane,2011-08-23
+1269,BE-11-300release,2011-09-27,,00Q2000000Pr6kV,Mark,Vreeland,2011-08-23
+1270,BE-11-300release,2011-09-27,,00Q2000000Pr6lz,Michelle,Booth,2010-11-04
+1275,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000Pr6lZ,Wendy,Szczygiel,2011-09-28
+1278,INFORMATION MGMT,2010-03-05,2010-04-30,00Q2000000RMCDM,Stephen,Wilson,2011-10-13
+1280,US-11-Gartner ITXPO,2011-10-16,2011-10-20,00Q2000000RMd7D,Robert,Borochoff,2011-10-24
+1284,UK-12-FIMA,2012-11-06,2012-11-08,00Q2000000RNMku,Stuart,Levy,2011-11-09
+1286,UK-12-FIMA,2012-11-06,2012-11-08,00Q2000000RNMmH,Vinod,Rajasimha,2011-11-09
+1288,UK-12-FIMA,2012-11-06,2012-11-08,00Q2000000RNMnN,Sarie,Van der Westhuizen,2011-11-09
+1290,UK-14-FIMA,2014-11-12,2014-11-13,00Q2000000RNMnX,Mark,Walker,2011-11-09
+1292,UK-12-GartnerMDMCognizant,2012-02-08,,00Q2000000RNYFf,Andy,Whitehurst,2011-11-15
+1294,US-13-TDWI,2013-06-02,2013-06-04,00Q2000000ROYYO,Anton,Bazilev,2011-11-30
+1304,BE-12-DGTLS-TusharSinha,2012-04-17,2012-04-17,00Q2000000UGsmP,sovan,sahu,2010-11-17
+1309,US-15-EDW,2015-04-02,,00Q2000000WwBQq,Michael,Fleckenstein,2012-10-22
+1311,US-15-MITCDOIQ_Registration,2015-07-23,,00Q2000000XZ4GJ,Shaun,Brady,2012-11-30
+1313,UK-13-FIMA,2013-11-05,2013-11-07,00Q2000000XZ4H8,Darren,Gouldthorp,2012-11-30
+1315,UK-13-FIMA,2013-11-05,2013-11-07,00Q2000000XZ4IY,Harsharan,Nijjar,2012-11-30
+1319,WEB-12-DGTLS-Sunil,2013-01-22,2013-01-22,00Q2000000Y3Gb4,Craig,Layman,2011-09-07
+1326,US-16-HIMSS16 - Setup Onsite Meetings,2016-02-28,2016-03-04,00Q2000000ZvPth,Michael,Riben,2013-04-17
+1348,WEB-15 CDO Webinar,2015-08-06,2015-08-06,00Q2000000ZvPzy,Dmytro,Lugovyi,2013-04-17

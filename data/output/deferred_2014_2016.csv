@@ -1,0 +1,113 @@
+yr_qt,OldNewStage,Old Value,New Value,count,sum
+2014Q1,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.,Closed Lost,2,262
+2014Q1,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.,Closed Deferred,2,92
+2014Q1,"(u'Closed Lost', u'Closed Deferred')",Closed Lost,Closed Deferred,1,48
+2014Q1,"(u'Qualified', u'Closed Deferred')",Qualified,Closed Lost,1,105
+2014Q1,"(u'Short List', u'Closed Deferred')",Short List,Closed Deferred,1,91
+2014Q1,"(u'Short List', u'Closed Lost')",Short List,Closed Lost,1,152
+2014Q2,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.,Closed Deferred,1,181
+2014Q2,"(u'Buying Process id.', 'Qualified')",Buying Process id.,Closed Lost,6,499
+2014Q2,"(u'Prospect', u'Closed Deferred')",Prospect,Closed Deferred,1,0
+2014Q2,"(u'Prospect', u'Closed Lost')",Prospect,Closed Lost,5,25
+2014Q2,"(u'Qualified', u'Closed Deferred')",Qualified,Closed Deferred,6,20
+2014Q2,"(u'Short List', u'Closed Deferred')",Short List,Closed Deferred,1,453
+2014Q2,"(u'Short List', u'Closed Lost')",Short List,Closed Lost,1,63
+2014Q3,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.,Closed Deferred,1,31
+2014Q3,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,25,1543
+2014Q3,"(u'Closed Lost', u'Closed Deferred')",Closed Lost',,1,3
+2014Q3,"(u'Prospect', u'Closed Deferred')",Prospect',,81,4529
+2014Q3,"(u'Prospect', u'Closed Lost')",Prospect',,1,40
+2014Q3,"(u'Qualified', u'Closed Deferred')",Qualified',,47,3380
+2014Q3,"(u'Short List', u'Closed Deferred')",Short List',,3,109
+2014Q4,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,10,872
+2014Q4,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,4,420
+2014Q4,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,6,707
+2014Q4,"(u'Prospect', u'Closed Deferred')",Prospect',,38,3437
+2014Q4,"(u'Prospect', u'Closed Lost')",Prospect',,5,225
+2014Q4,"(u'Qualified', u'Closed Deferred')",Qualified',,23,2115
+2014Q4,"(u'Short List', u'Closed Deferred')",Short List',,2,249
+2014Q4,"(u'Short List', u'Closed Lost')",Short List',,3,254
+2015Q1,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,9,864
+2015Q1,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,1,202
+2015Q1,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,8,987
+2015Q1,"(u'Closed Lost', u'Closed Deferred')",Closed Lost',,1,20
+2015Q1,"(u'Negotiation/Review', u'Closed Deferred')",Negotiation/Review',,2,210
+2015Q1,"(u'Prospect', u'Closed Deferred')",Prospect',,44,6110
+2015Q1,"(u'Qualified', u'Closed Deferred')",Qualified',,40,5110
+2015Q1,"('Qualified', u'Closed Lost')",ualified',,2,269
+2015Q1,"(u'Short List', u'Closed Deferred')",Short List',,2,107
+2015Q1,"(u'Short List', u'Closed Lost')",Short List',,3,305
+2015Q2,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,19,2649
+2015Q2,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,4,405
+2015Q2,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,13,1810
+2015Q2,"(u'Closed Deferred', u'Closed Lost')",Closed Deferred',,2,13
+2015Q2,"(u'Negotiation/Review', u'Closed Deferred')",Negotiation/Review',,1,260
+2015Q2,"(u'Prospect', u'Closed Deferred')",Prospect',,21,3277
+2015Q2,"(u'Prospect', u'Closed Lost')",Prospect',,2,186
+2015Q2,"(u'Qualified', u'Closed Deferred')",Qualified',,49,9347
+2015Q2,"('Qualified', u'Closed Lost')",ualified',,1,107
+2015Q2,"(u'Short List', u'Closed Deferred')",Short List',,4,438
+2015Q2,"(u'Short List', u'Closed Lost')",Short List',,4,369
+2015Q3,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,9,1187
+2015Q3,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,6,474
+2015Q3,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,4,218
+2015Q3,"(u'Closed Deferred', u'Closed Lost')",Closed Deferred',,2,105
+2015Q3,"(u'Prospect', u'Closed Deferred')",Prospect',,28,3079
+2015Q3,"(u'Prospect', u'Closed Lost')",Prospect',,4,116
+2015Q3,"(u'Qualified', u'Closed Deferred')",Qualified',,17,3618
+2015Q3,"('Qualified', u'Closed Lost')",ualified',,3,360
+2015Q3,"(u'Short List', u'Closed Deferred')",Short List',,4,187
+2015Q3,"(u'Short List', u'Closed Lost')",Short List',,2,325
+2015Q4,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,20,6227
+2015Q4,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,1,71
+2015Q4,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,11,1775
+2015Q4,"(u'Negotiation/Review', u'Closed Deferred')",Negotiation/Review',,1,170
+2015Q4,"(u'Prospect', u'Closed Deferred')",Prospect',,25,4073
+2015Q4,"(u'Prospect', u'Closed Lost')",Prospect',,2,63
+2015Q4,"(u'Qualified', u'Closed Deferred')",Qualified',,38,9494
+2015Q4,"('Qualified', u'Closed Lost')",ualified',,2,205
+2015Q4,"(u'Short List', u'Closed Deferred')",Short List',,3,289
+2015Q4,"(u'Short List', u'Closed Lost')",Short List',,1,63
+2016Q1,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,13,1968
+2016Q1,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,8,1227
+2016Q1,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,16,3986
+2016Q1,"(u'Chosen Vendor', u'Closed Deferred')",Chosen Vendor',,2,35
+2016Q1,"(u'Negotiation/Review', u'Closed Deferred')",Negotiation/Review',,1,10
+2016Q1,"(u'Prospect', u'Closed Deferred')",Prospect',,29,6622
+2016Q1,"(u'Prospect', u'Closed Lost')",Prospect',,1,43
+2016Q1,"(u'Qualified', u'Closed Deferred')",Qualified',,25,5323
+2016Q1,"('Qualified', u'Closed Lost')",ualified',,4,472
+2016Q1,"(u'Re-Qualify', u'Closed Deferred')",Re-Qualify',,1,0
+2016Q1,"(u'Short List', u'Closed Deferred')",Short List',,1,260
+2016Q1,"(u'Short List', u'Closed Lost')",Short List',,4,621
+2016Q2,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,13,4435
+2016Q2,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,2,104
+2016Q2,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,46,8811
+2016Q2,"(u'Prospect', u'Closed Deferred')",Prospect',,33,12307
+2016Q2,"(u'Prospect', u'Closed Lost')",Prospect',,4,65
+2016Q2,"(u'Qualified', u'Closed Deferred')",Qualified',,48,5635
+2016Q2,"('Qualified', u'Closed Lost')",ualified',,5,109
+2016Q2,"(u'Re-Qualify', u'Closed Deferred')",Re-Qualify',,8,149
+2016Q2,"(u'Short List', u'Closed Deferred')",Short List',,3,196
+2016Q2,"(u'Short List', u'Closed Lost')",Short List',,3,243
+2016Q3,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,17,3182
+2016Q3,"(u'Buying Process id.', u'Closed Lost')",Buying Process id.',,3,424
+2016Q3,"(u'Buying Process id.', 'Qualified')",Buying Process id.',,23,4728
+2016Q3,"(u'Closed Lost', u'Closed Deferred')",Closed Lost',,4,133
+2016Q3,"(u'Closed Won', u'Closed Deferred')",Closed Won',,1,240
+2016Q3,"(u'Closed Won', u'Closed Lost')",Closed Won',,1,973
+2016Q3,"(u'Negotiation/Review', u'Closed Deferred')",Negotiation/Review',,1,68
+2016Q3,"(u'Negotiation/Review', u'Closed Lost')",Negotiation/Review',,1,100
+2016Q3,"(u'Prospect', u'Closed Deferred')",Prospect',,105,10065
+2016Q3,"(u'Qualified', u'Closed Deferred')",Qualified',,138,20094
+2016Q3,"('Qualified', u'Closed Lost')",ualified',,8,828
+2016Q3,"(u'Re-Qualify', u'Closed Deferred')",Re-Qualify',,179,12937
+2016Q3,"(u'Re-Qualify', u'Closed Lost')",Re-Qualify',,1,132
+2016Q3,"(u'Short List', u'Closed Deferred')",Short List',,5,1618
+2016Q3,"(u'Short List', u'Closed Lost')",Short List',,3,490
+2016Q4,"(u'Buying Process id.', u'Closed Deferred')",Buying Process id.',,1,8
+2016Q4,"(u'Closed Deferred', u'Closed Lost')",Closed Deferred',,1,0
+2016Q4,"(u'Closed Lost', u'Closed Deferred')",Closed Lost',,3,557
+2016Q4,"(u'Prospect', u'Closed Deferred')",Prospect',,2,192
+2016Q4,"(u'Prospect', u'Closed Lost')",Prospect',,1,0
+2016Q4,"(u'Qualified', u'Closed Deferred')",Qualified',,3,366
