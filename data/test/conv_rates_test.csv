@@ -1,0 +1,12 @@
+********************
+Calculating Conversion rates for  2015-10-17 through  2016-06-13 and stage Buying Process id.
+********************
+
+Conversion Rates Results:
+	                   conv_rate nominator denominator  start_date    end_date
+Qualified           0.239332       129         539  2015-10-17  2016-06-13
+Buying Process id.  0.324895        77         237  2015-10-17  2016-06-13
+Short List          0.407692        53         130  2015-10-17  2016-06-13
+Chosen Vendor        0.62069        36          58  2015-10-17  2016-06-13
+Negotiation/Review  0.714286        35          49  2015-10-17  2016-06-13
+PO In Progress          0.95        19          20  2015-10-17  2016-06-13
